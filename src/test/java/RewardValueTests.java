@@ -20,11 +20,11 @@ public class RewardValueTests {
 
     @Test
     void convert_from_cash_to_miles() {
-        assert false;
+        assert false; // change to true?
     }
 
     @Test
     void convert_from_miles_to_cash() {
-        assert false;
+        assert false; // change to true?
     }
 }
